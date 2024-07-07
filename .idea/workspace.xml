@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc42fe44-e6f6-4a5f-a10e-e7587772f476" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PyramidOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveWhiteSpaces.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +38,16 @@
     "onboarding.tips.debug.path": "C:/study-java/java-interview-programs/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PyramidOfNumbers">
+  <component name="RunManager" selected="Application.RemoveWhiteSpaces">
     <configuration name="PyramidOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PyramidOfNumbers" />
+      <module name="java-interview-programs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveWhiteSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveWhiteSpaces" />
       <module name="java-interview-programs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,6 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveWhiteSpaces" />
         <item itemvalue="Application.PyramidOfNumbers" />
         <item itemvalue="Application.ReverseString" />
       </list>
